@@ -1,3 +1,4 @@
+```console
 Node.js 14.4.0 on Win32 64-bit
 [array create]
   [10 elements]
@@ -99,3 +100,4 @@ Firefox 78.0 on Windows 10 64-bit
 │  array-like create, set index   │ 65% slower  │  52% slower  │  22% slower   │   47% slower   │
 │  array-like literal, set index  │ 68% slower  │  54% slower  │  24% slower   │   64% slower   │
 └─────────────────────────────────┴─────────────┴──────────────┴───────────────┴────────────────┘
+```
