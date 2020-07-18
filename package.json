@@ -1,0 +1,26 @@
+{
+  "name": "js-benchmarks",
+  "version": "1.0.0",
+  "description": "Various JavaScript benchmarks",
+  "main": "index.js",
+  "scripts": {
+    "test": "rebenchmark -pO results"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evg656e/js-benchmarks.git"
+  },
+  "keywords": [
+    "benchmarks",
+    "javascript"
+  ],
+  "author": "evg656e <evg656e@gmail.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/evg656e/js-benchmarks/issues"
+  },
+  "homepage": "https://github.com/evg656e/js-benchmarks#readme",
+  "devDependencies": {
+    "rebenchmark": "^2.0.0"
+  }
+}
